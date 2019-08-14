@@ -1,9 +1,11 @@
 package com.example.android.tourguide;
 
+import android.os.Bundle;
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
-import android.support.design.widget.TabLayout;
-import android.os.Bundle;
+
+import com.google.android.material.tabs.TabLayout;
 
 public class MainActivity extends AppCompatActivity {
 
