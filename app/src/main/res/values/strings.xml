@@ -3,4 +3,54 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Descriptions for ATTRATCIONS -->
+    <string name="printworks">The Printworks is an urban entertainment venue offering a cinema, clubs and eateries, located on the corner of Withy Grove and Corporation Street in Manchester city centre, England.</string>
+    <string name="piccadilly_gardens">Piccadilly Gardens is a green space in Manchester city centre, England, between Market Street and the edge of the Northern Quarter. Piccadilly runs eastwards from the junction of Market Street with Mosley Street to the junction of London Road with Ducie Street; to the south are the gardens and paved areas.</string>
+    <string name="uni_manc">The University of Manchester is a public research university in Manchester, England, formed in 2004 by the merger of the University of Manchester Institute of Science and Technology and the Victoria University of Manchester.</string>
+    <string name="old_trafford">Old Trafford is a football stadium in Old Trafford, Greater Manchester, England, and the home of Manchester United. With a capacity of 74,994, it is the largest club football stadium in the United Kingdom, and the eleventh-largest in Europe.</string>
+    <string name="northern_quarter">The Northern Quarter is a trendy neighborhood, with vibrant street art, bohemian bars and independent record shops. It’s home to buzzy restaurants and some of the city’s liveliest music venues, which host up-and-coming indie bands and established acts. Cultural attractions include the artists’ studios at Manchester Craft and Design Centre, and rotating exhibits at the Centre for Chinese Contemporary Art.</string>
+    <string name="castlefield">A walkable area filled with canals, casual waterfront bars and green spaces, Castlefield is one of Manchester\'s more relaxed neighbourhoods. It\'s home to the Castlefield Bowl, a canal-side outdoor venue that hosts rock and classical concerts. Other attractions include the ruined Roman fort of Mamucium, from which the city takes its name, and HOME, an arts centre with film screenings, exhibits and live theatre.</string>
+    <string name="manc_cathedral">Manchester Cathedral, formally the Cathedral and Collegiate Church of St Mary, St Denys and St George, in Manchester, England, is the mother church of the Anglican Diocese of Manchester, seat of the Bishop of Manchester and the city\'s parish church. It is on Victoria Street in Manchester city centre.</string>
+    <string name="chetham_lib">Chetham\'s Library in Manchester, England, is the oldest free public reference library in the United Kingdom.</string>
+    <string name="john_rylands">The John Rylands Library is a late-Victorian neo-Gothic building on Deansgate in Manchester, England. The library, which opened to the public in 1900, was founded by Enriqueta Augustina Rylands in memory of her husband, John Rylands</string>
+    <string name="manc_art_gallery">Manchester Art Gallery, formerly Manchester City Art Gallery, is a publicly owned art museum on Mosley Street in Manchester city centre. The main gallery premises were built for a learned society in 1823 and today its collection occupies three connected buildings, two of which were designed by Sir Charles Barry.</string>
+    <string name="chinatown">Chinatown in Manchester, England, is an ethnic enclave in the city centre. It is the second largest Chinatown in the United Kingdom and the third largest in Europe.</string>
+    <string name="manc_town_hall">Manchester Town Hall is a Victorian, Neo-gothic municipal building in Manchester, England. It is the ceremonial headquarters of Manchester City Council and houses a number of local government departments. The building faces Albert Square to the north and St Peter\'s Square to the south, with Manchester Cenotaph facing its southern entrance.</string>
+    <string name="heaton_park">Heaton Park is a municipal park in Manchester, England, covering an area of over 600 acres. The park includes the grounds of a Grade I listed, neoclassical 18th century country house, Heaton Hall. </string>
+    <string name="alan_turing_memorial">The Alan Turing Memorial, situated in Sackville Park in Manchester, England, is in memory of Alan Turing, a pioneer of modern computing. Turing is believed to have committed suicide in 1954 two years after being convicted of gross indecency. </string>
+    <string name="gay_village">Canal Street, the centre of the Manchester Gay Village, is a street in Manchester city centre in North West England. The pedestrianised street, which runs along the west side of the Rochdale Canal, is lined with gay bars and restaurants.</string>
+
+    <!-- Descriptions for RESTAURANTS -->
+    <string name="takk">Hipster hangout with minimalist, arty decor serving artisan coffee and Mediterranean sandwiches.</string>
+    <string name="cat_cafe">Cat Café is a stress free space where cats and humans come along side each other and unwind.</string>
+    <string name="milk_honey_cafe">A community café for the city – where paths cross, ideas spark, and people leave with the warm glow of knowing they\’ve been part of something good.</string>
+    <string name="byte_cafe">Byte Cafe is a coffee place situated on campus in the Computer Science building. It has got a wide range of tasty snacks and beverages with special offers for students.</string>
+    <string name="black_milk">Modern, counter-serve dessert cafe offering sweets like waffles, milkshakes and ice cream sundaes.</string>
+    <string name="costa_coffee">Costa Coffee is a British multinational coffeehouse company headquartered in Dunstable, Bedfordshire. Costa Coffee was founded in London in 1971 by the Costa family as a wholesale operation supplying roasted coffee to caterers and specialist Italian coffee shops.</string>
+    <string name="north_tea_power">Daytime venue serving handcrafted coffee and loose-leaf teas, cake, soup and grilled sandwiches.</string>
+    <string name="twenty_stories">High-style destination in a shopping complex for modern British dining and cocktails and sweeping views.</string>
+    <string name="richmond_tea_rooms">Venue with fantastic decor, serving breakfast, afternoon tea, sandwiches, cakes and cocktails.</string>
+
+    <!-- Descriptions for NIGHTLIFE -->
+    <string name="lola_lo">A tiki-tavern where raucous parties reign supreme, Lola Lo is brimming with luscious cocktails, late night artisans and party hearty dance floors.</string>
+    <string name="chinawhite">Since opening its doors Chinawhite has maintained its reputation for offering a unique experience to its cohort of members, friends and celebrity client’s. for nearly two decades the venue has been delighting guests with its stylish and exotic interiors, superior service and regular performances from the world’s most famous dj’s and artists.</string>
+    <string name="gorilla">Industrial chic bar/club under the railway arches, with a grill menu, a gin parlour and live music.</string>
+    <string name="revolucion_cuba">The world’s finest rums and Manchester’s biggest fiesta. Two floors of dancing, Latin-inspired dining and live music just off Deansgate.</string>
+    <string name="the_deaf_institute">Landmark building housing plush basement bar, cafe/bar and upstairs music hall with smoking terrace.</string>
+    <string name="hidden">Bustling, late-night operation with neon lights, a dance floor, live DJs, ample cocktails and drinks.</string>
+    <string name="warehouse_project">The Warehouse Project is a series of club nights organised in Greater Manchester, England, since 2006. Unlike most other clubs, it has a limited seasonal approach rather than running all year. Each year\'s season runs from September through to New Years Day, plus occasional one off dates such as Bank Holiday weekends.</string>
+    <string name="factory_manchester">Clubbing venue in the old Factory Records offices, playing sounds from indie to drum \'n\' bass.</string>
+    <string name="o2_ritz">The O₂ Ritz is a live music venue on Whitworth Street West, Manchester, England. Built in 1927, it was designated a Grade II listed building in 1994. The venue is notable for its sprung dance floor. The Ritz was taken over by HMV in 2011 and given a £2 million refurbishment.</string>
+    <string name="turing_tap">Classic pub offering rotating guest beers, trad food, plus sports nights and a whisky selection.</string>
+    <string name="ford_madox_brown">Chain pub by a student hall of residence, with a long wood bar, TV screens plus red hanging lamps.</string>
+    <string name="manchester_arena">The Manchester Arena is an indoor arena in Manchester, England, immediately north of the city centre and partly above Manchester Victoria station in air rights space.</string>
+
+    <!-- Descriptions for MUSEUMS -->
+    <string name="manc_museum">Manchester Museum is a museum displaying works of archaeology, anthropology and natural history and is owned by the University of Manchester, in England. Sited on Oxford Road at the heart of the university\'s group of neo-Gothic buildings, it provides access to about 4.5 million items from every continent.</string>
+    <string name="science_industry">The Science and Industry Museum is a large museum devoted to the development of science, technology and industry with emphasis on the city\'s achievements in these fields.</string>
+    <string name="football_mueseum">The National Football Museum is England’s national museum of football. It is based in the Urbis building in Manchester city centre, and preserves, conserves and displays important collections of football memorabilia. The museum was originally based in Deepdale, Preston, Lancashire, but moved to Manchester in 2012.</string>
+    <string name="police_museum">The Greater Manchester Police Museum is a former police station converted into a museum and archives detailing the history of policing in Greater Manchester, England. It was home to Manchester City Police and then its successors Manchester and Salford Police and Greater Manchester Police from 1879 until 1979.</string>
+    <string name="salford_museum">Salford Museum and Art Gallery, in Peel Park, Salford, Greater Manchester, opened to the public in November 1850 as the Royal Museum and Public Library. The gallery and museum are devoted to the history of Salford and Victorian art and architecture.</string>
+    <string name="transport_museum">The Museum of Transport, Greater Manchester aims to preserve and promote the public transport heritage of Greater Manchester in North West England. Owned by Transport for Greater Manchester, it is in the Cheetham Hill area of Manchester.</string>
 </resources>
